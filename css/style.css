@@ -7263,16 +7263,6 @@ body {
     -o-transition: all 0.3s ease 0s;
     box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
 
-@media (min-width: 1025px) {
-  .product-item {
-    cursor: pointer; }
-    .product-item:hover .overlay-img {
-      opacity: 1; }
-    .product-item:hover .product-img {
-      -webkit-transition: all 0.3s ease 0s;
-      transition: all 0.3s ease 0s;
-      -o-transition: all 0.3s ease 0s;
-      box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); } }
 @media (max-width: 1024px) {
   .product-item .product-img {
     box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3); } }
