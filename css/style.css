@@ -7255,9 +7255,9 @@ body {
 
 .product-item {
   cursor: pointer; }
-  .product-item:hover .overlay-img, .product-item:focus .overlay-img, .product-item:active .overlay-img {
+  .product-item:active .overlay-img {
     opacity: 1; }
-  .product-item:hover .product-img, .product-item:focus .product-img, .product-item:active .product-img {
+  .product-item:active .product-img {
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
