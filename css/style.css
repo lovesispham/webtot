@@ -7253,7 +7253,7 @@ body {
   display: flex;
   /* NEW, Spec - Opera 12.1, Firefox 20+ */ }
 
-.product-item:hover, .product-item:focus, .product-item:active {
+.product-item {
   cursor: pointer; }
   .product-item:hover .overlay-img, .product-item:focus .overlay-img, .product-item:active .overlay-img {
     opacity: 1; }
